@@ -1,0 +1,53 @@
+# Project exclude paths
+/.gradle/
+/Contacts (Kotlin)/task/build/
+/Contacts (Kotlin)/task/out/
+/Contacts (Kotlin)/task/out/production/classes/
+/Contacts (Kotlin)/task/out/test/classes/
+/Topics/For loop and arrays/Counting/out/
+/Topics/For loop and arrays/Counting/out/production/classes/
+/Topics/For loop and arrays/Cyclically shifting elements/out/
+/Topics/For loop and arrays/Cyclically shifting elements/out/production/classes/
+/Topics/Kotlinx datetime library/Next Month/out/
+/Topics/Kotlinx datetime library/Next Month/out/production/classes/
+/Topics/Local date and time/How many days until/out/
+/Topics/Local date and time/How many days until/out/production/classes/
+/Topics/Regexps/Can you/out/
+/Topics/Regexps/Can you/out/production/classes/
+/Topics/Regexps/Help the teacher/out/
+/Topics/Regexps/Help the teacher/out/production/classes/
+/Topics/Regexps in use/Web colors/out/
+/Topics/Regexps in use/Web colors/out/production/classes/
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Git
+git.properties
+
+#IDEA Project Files
+*iml
+*iws
+.idea
+*ipr
+ishopdb
